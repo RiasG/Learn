@@ -21,6 +21,9 @@ public class ArrayAlg {
             return new Pair(min, max);
         }
 
+        public static void minmax(int i, int i1) {
+        }
+
         public double getFirst() {
             return first;
         }
